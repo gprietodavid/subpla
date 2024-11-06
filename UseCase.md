@@ -1,6 +1,6 @@
 # Problem
 
-Business has requested a new project named **Submission Platform**. This new system will be in charge of submitting tax returns (e-files) to the different government's APIs, for instances: 
+Our business has requested a new project named **Submission Platform**. This new system will be in charge of submitting tax returns (e-files) to the different government's APIs, for instances: 
 
 - Belgian TAs exposes SOAP services requiring XML files as reports
 - French TAs exposes REST APIs with oAuth protection requiring encrypted JSON files
@@ -20,4 +20,4 @@ Expected usage:
 - 1.000 to 2.000 submissions per hour in peak season (at least once a month)
 - Roughly 10 to 20 applications submitting e-files
 - Audit and track incoming and outgoing information and user activity
-- Possiblity to sell to other clients or Deloitte member firms
+- Possiblity to sell to other clients or our company member firms
