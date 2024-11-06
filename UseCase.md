@@ -9,7 +9,7 @@ Our business has requested a new project named **Submission Platform**. This new
 Features required for MVP:
 
 - Submission of e-filing according to their e-file requirements
-- Ability to use this component in multiple projects (customer applications and our intetrnal applications)
+- Ability to use this component in multiple projects (customer applications and our internal applications)
 - Should be easy to onboard new Country/TAs
 - Security implementation and registration of new customers and users
 - Ability to notify the calling application on progress/status
